@@ -86,18 +86,12 @@ By completing these projects, I've achieved:
 - Basic graphical programming with Pygame.
 - Use of modern tools like `uv` for environment management.
 
-This aligns with PIAIC's Q1 syllabus, covering topics from "Python Crash Course" by Eric Matthes and official Python documentation.
-
 ## Contributing
 
 Feel free to fork this repository, submit pull requests for improvements, or open issues for bugs. Contributions should:
 - Follow PEP 8 style guidelines.
 - Include docstrings for functions.
 - Add tests where applicable.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <!-- ## Acknowledgments
 
