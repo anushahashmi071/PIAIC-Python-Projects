@@ -1,16 +1,3 @@
-# user_input : int = int(input("Enter numbers: "))
-# even_num: list[int] = []
-
-# def count_even(user_input: int) -> int:
-#     for i in range(user_input):
-#         if i % 2 == 0:
-#             print(i)
-#             even_num.append(i)
-#     return len(even_num)
-
-# print(f"Even numbers: {even_num}")
-
-# count_even(user_input)
 def count_even(lst):
     while True:
         user_input = input("Enter an integer or press enter to stop: ")
